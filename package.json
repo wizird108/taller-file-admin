@@ -3,12 +3,10 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "scripts": {
+"scripts": {
   "dev": "vite",
   "build": "vite build",
-  // 1. Comando de Construcción de Vite
   "preview": "vite preview", 
-  // 2. COMANDO START PARA RENDER
   "start": "serve -s dist"
 },
 
